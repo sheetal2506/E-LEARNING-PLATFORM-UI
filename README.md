@@ -39,3 +39,13 @@ payment.html provides a visually secure payment experience with UPI, QR, and net
 Final Thoughts
 Throughout this project, my focus was on attention to detail, modern UI trends, and clean code structure. This project is a testament to my front-end development capabilities and understanding of responsive web design, user experience, and visual storytelling using only HTML and CSS. My aim was to create an immersive educational interface that feels professional, intuitive, and ready for dynamic integration in the future.
 
+
+#Output
+
+<img width="1322" height="639" alt="Image" src="https://github.com/user-attachments/assets/8d884882-9f50-4b4c-b570-7651bed797e5" />
+<img width="1235" height="616" alt="Image" src="https://github.com/user-attachments/assets/7dd48ae0-1f9d-4126-a7ea-1327c908265e" />
+<img width="1240" height="615" alt="Image" src="https://github.com/user-attachments/assets/de42aa7d-e4b3-41e0-8e8a-37a4340109bd" />
+<img width="1144" height="602" alt="Image" src="https://github.com/user-attachments/assets/66b816be-d47d-4a46-bf39-57fe8df2ab18" />
+<img width="1356" height="594" alt="Image" src="https://github.com/user-attachments/assets/5b1ed3c0-25c0-4dcb-b831-eb86a55aeafd" />
+<img width="1143" height="615" alt="Image" src="https://github.com/user-attachments/assets/ebbb063b-7318-4c3f-8d7b-dadbebebd7d0" />
+<img width="494" height="475" alt="Image" src="https://github.com/user-attachments/assets/55d6290c-e61f-4914-9ee4-63fb5956f46d" />
